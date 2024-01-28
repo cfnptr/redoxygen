@@ -2,6 +2,8 @@
 
 This is a [Doxygen](https://www.doxygen.nl) theme with a refreshed modern design, inspired by the appearance of VS Code and documentation for other programming languages. The theme is built based on Doxygen 1.10.0
 
+See the [example](https://cfnptr.github.io/pack).
+
 ![Redoxygen theme look](screenshot.png)
 
 # Usage
